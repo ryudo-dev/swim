@@ -1,2 +1,1 @@
-# swim
-部活用です．
+style sheets.
